@@ -11,7 +11,7 @@ This repository contains custom web scraping pipelines to collect social media a
   Extracts **YouTube video comments** from political channels or content related to election discussions. Supports comment threading, author info, and like counts.
 
 - `GMaps_Converter.ipynb`:  
-  Converts **latitude-longitude coordinates** from scraped data into administrative regions (e.g., province, city) using a geocoding API (Google Maps API or similar).
+  Converts **latitude-longitude coordinates and locations** from scraped data into administrative regions (e.g., province, city) using a geocoding API (Google Maps API or similar).
 
 ## ⚙️ Key Functionalities
 
