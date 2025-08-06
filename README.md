@@ -1,6 +1,5 @@
-# 📥 Data Scraping Pipelines for Indonesian Election Analysis
-
-This repository contains custom web scraping pipelines to collect social media and geolocation data related to the 2019 and 2024 Indonesian general elections. The datasets extracted here serve as the foundation for downstream sentiment, hate speech, and geospatial analysis.
+# 📥 Data Scraping Pipelines
+This repository contains custom web scraping pipelines to collect social media data related to the 2019 and 2024 Indonesian general elections. The datasets extracted here serve as the foundation for downstream sentiment, hate speech, and geospatial analysis.
 
 ## 📁 Repository Structure
 
